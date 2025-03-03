@@ -32,11 +32,12 @@ public class CuentaBancaria {
      * @param cantidad Monto a depositar, debe ser positivo.
      * @throws IllegalArgumentException si la cantidad es negativa.
      */
-    public void depositar(double cantidad) {
+    public double depositar(double cantidad) {
         if (cantidad < 0) {
             throw new IllegalArgumentException("El monto a depositar debe ser positivo");
         }
         saldo += cantidad;
+        return saldo;
     }
 
     /**
