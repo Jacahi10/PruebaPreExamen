@@ -1,4 +1,4 @@
-package testing;
+package JavaDocBanco;
 
 import JavaDocBanco.CuentaBancaria;
 import org.junit.jupiter.api.BeforeEach;
