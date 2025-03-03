@@ -1,0 +1,25 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"FrameworkDetectionExcludesConfiguration\">\r\n    <file type=\"web\" url=\"file://$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"JavadocGenerationManager\">\r\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/doc\" />\r\n    <option name=\"OPTION_SCOPE\" value=\"private\" />\r\n    <option name=\"OPTION_DOCUMENT_TAG_USE\" value=\"true\" />\r\n    <option name=\"OPTION_DOCUMENT_TAG_AUTHOR\" value=\"true\" />\r\n    <option name=\"OPTION_DOCUMENT_TAG_VERSION\" value=\"true\" />\r\n    <option name=\"LOCALE\" value=\"es_ES\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" default=\"true\" project-jdk-name=\"corretto-21\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision e7000f073e45e283feb17033617d658e7acb6b5d)
++++ b/.idea/misc.xml	(date 1741023608730)
+@@ -4,14 +4,6 @@
+   <component name="FrameworkDetectionExcludesConfiguration">
+     <file type="web" url="file://$PROJECT_DIR$" />
+   </component>
+-  <component name="JavadocGenerationManager">
+-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/doc" />
+-    <option name="OPTION_SCOPE" value="private" />
+-    <option name="OPTION_DOCUMENT_TAG_USE" value="true" />
+-    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+-    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+-    <option name="LOCALE" value="es_ES" />
+-  </component>
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
